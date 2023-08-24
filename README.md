@@ -20,13 +20,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/RWpjpa9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/RWpjpa9.gif)
 
 
 GIF created with [Kap](https://getkap.co/)  
 
 ## App Brainstorming (Step 4)
-[ ] Features in apps I love
+### Features in apps I love
 * **WhatsApp**
     - Swiping to reply
     - Satisfying animations when opening chats
@@ -51,8 +51,10 @@ GIF created with [Kap](https://getkap.co/)
     - Dark mode integrated with iOS
     
 
-[ ] An App I'd like to make
-    I've been wanting to create a habit tracking app which will positively reinforce better habits to form using a reward and celebration system. The layout will be similar to the current Reminders app on iOS. Features I'd add would be an ability to count number of completed days to form streaks, a way to create a social aspect in order to encourage accoountability and reminders throughout the day by way of notifications.
+
+
+### An App I'd like to make
+   I've been wanting to create a habit tracking app which will positively reinforce better habits to form using a reward and celebration system. The layout will be similar to the current Reminders app on iOS. Features I'd add would be an ability to count number of completed days to form streaks, a way to create a social aspect in order to encourage accoountability and reminders throughout the day by way of notifications.
 ## Notes
 
 Xcode is pretty intimidating as an IDE at first, but as I kept building I began to understand the flow of the environment pretty quickly. I also had an issue where my simulated iPhone wouldn't launch the app which I solved by updated Xcode.
