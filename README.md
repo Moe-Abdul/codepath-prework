@@ -57,7 +57,7 @@ GIF created with [Kap](https://getkap.co/)
    I've been wanting to create a habit tracking app which will positively reinforce better habits to form using a reward and celebration system. The layout will be similar to the current Reminders app on iOS. Features I'd add would be an ability to count number of completed days to form streaks, a way to create a social aspect in order to encourage accoountability and reminders throughout the day by way of notifications.
 ## Notes
 
-Xcode is pretty intimidating as an IDE at first, but as I kept building I began to understand the flow of the environment pretty quickly. I also had an issue where my simulated iPhone wouldn't launch the app which I solved by updated Xcode.
+Xcode is pretty intimidating as an IDE at first, but as I kept building I began to understand the flow of the environment pretty quickly. I also had an issue where my simulated iPhone wouldn't launch the app which I solved by updating Xcode.
 
 ## License
 
